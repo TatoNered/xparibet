@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://example.com/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://example.com/register</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://example.com/login</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://example.com/sports</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://example.com/live</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://example.com/cybersport</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://example.com/casino</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://example.com/slots</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://example.com/bonuses</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://example.com/app</loc>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://example.com/payments</loc>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://example.com/support</loc>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://example.com/faq</loc>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://example.com/terms</loc>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://example.com/partners</loc>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>
