@@ -3,78 +3,54 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://xparibetpartners.net/</loc>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://example.com/register</loc>
+    <loc>https://xparibetpartners.net/about</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://example.com/login</loc>
+    <loc>https://xparibetpartners.net/register</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://xparibetpartners.net/login</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://xparibetpartners.net/program</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://example.com/sports</loc>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://example.com/live</loc>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://example.com/cybersport</loc>
+    <loc>https://xparibetpartners.net/commission</loc>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://example.com/casino</loc>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://example.com/slots</loc>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://example.com/bonuses</loc>
+    <loc>https://xparibetpartners.net/tools</loc>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://example.com/app</loc>
+    <loc>https://xparibetpartners.net/faq</loc>
     <priority>0.6</priority>
   </url>
 
   <url>
-    <loc>https://example.com/payments</loc>
+    <loc>https://xparibetpartners.net/contact</loc>
     <priority>0.6</priority>
   </url>
 
   <url>
-    <loc>https://example.com/support</loc>
-    <priority>0.6</priority>
-  </url>
-
-  <url>
-    <loc>https://example.com/faq</loc>
-    <priority>0.6</priority>
-  </url>
-
-  <url>
-    <loc>https://example.com/terms</loc>
-    <priority>0.5</priority>
-  </url>
-
-  <url>
-    <loc>https://example.com/partners</loc>
+    <loc>https://xparibetpartners.net/terms</loc>
     <priority>0.5</priority>
   </url>
 
 </urlset>
+
